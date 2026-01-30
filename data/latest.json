@@ -1,177 +1,177 @@
 {
   "781C3CA635F4": {
     "temp": {
-      "lastTimestamp": 1769772303000,
-      "lastValueDateTime": "2026-01-30T18:25:03",
-      "lastValue": 26.76,
+      "lastTimestamp": 1769772900000,
+      "lastValueDateTime": "2026-01-30T18:35:00",
+      "lastValue": 26.25,
       "file": "781C3CA635F4/temp/2026/01/781C3CA635F4_temp_2026-01-30.csv"
     },
     "humid": {
-      "lastTimestamp": 1769772304000,
-      "lastValueDateTime": "2026-01-30T18:25:04",
-      "lastValue": 58.96,
+      "lastTimestamp": 1769772900000,
+      "lastValueDateTime": "2026-01-30T18:35:00",
+      "lastValue": 59.57,
       "file": "781C3CA635F4/humid/2026/01/781C3CA635F4_humid_2026-01-30.csv"
     },
     "wind_speed": {
-      "lastTimestamp": 1769772304000,
-      "lastValueDateTime": "2026-01-30T18:25:04",
+      "lastTimestamp": 1769772900000,
+      "lastValueDateTime": "2026-01-30T18:35:00",
       "lastValue": 0,
       "file": "781C3CA635F4/wind_speed/2026/01/781C3CA635F4_wind_speed_2026-01-30.csv"
     },
     "wind_direct": {
-      "lastTimestamp": 1769772304000,
-      "lastValueDateTime": "2026-01-30T18:25:04",
+      "lastTimestamp": 1769772901000,
+      "lastValueDateTime": "2026-01-30T18:35:01",
       "lastValue": 270,
       "file": "781C3CA635F4/wind_direct/2026/01/781C3CA635F4_wind_direct_2026-01-30.csv"
     },
     "rainfall": {
-      "lastTimestamp": 1769772304000,
-      "lastValueDateTime": "2026-01-30T18:25:04",
+      "lastTimestamp": 1769772901000,
+      "lastValueDateTime": "2026-01-30T18:35:01",
       "lastValue": 0,
       "file": "781C3CA635F4/rainfall/2026/01/781C3CA635F4_rainfall_2026-01-30.csv"
     },
     "pm2.5": {
-      "lastTimestamp": 1769772304000,
-      "lastValueDateTime": "2026-01-30T18:25:04",
-      "lastValue": 27,
+      "lastTimestamp": 1769772901000,
+      "lastValueDateTime": "2026-01-30T18:35:01",
+      "lastValue": 25,
       "file": "781C3CA635F4/pm2.5/2026/01/781C3CA635F4_pm2.5_2026-01-30.csv"
     },
     "pm10": {
-      "lastTimestamp": 1769772304000,
-      "lastValueDateTime": "2026-01-30T18:25:04",
-      "lastValue": 30,
+      "lastTimestamp": 1769772901000,
+      "lastValueDateTime": "2026-01-30T18:35:01",
+      "lastValue": 27,
       "file": "781C3CA635F4/pm10/2026/01/781C3CA635F4_pm10_2026-01-30.csv"
     }
   },
   "781C3CA61718": {
     "temp": {
-      "lastTimestamp": 1769772290000,
-      "lastValueDateTime": "2026-01-30T18:24:50",
-      "lastValue": 27.95,
+      "lastTimestamp": 1769773431000,
+      "lastValueDateTime": "2026-01-30T18:43:51",
+      "lastValue": 27.44,
       "file": "781C3CA61718/temp/2026/01/781C3CA61718_temp_2026-01-30.csv"
     },
     "humid": {
-      "lastTimestamp": 1769772290000,
-      "lastValueDateTime": "2026-01-30T18:24:50",
-      "lastValue": 73.58,
+      "lastTimestamp": 1769773431000,
+      "lastValueDateTime": "2026-01-30T18:43:51",
+      "lastValue": 76.66,
       "file": "781C3CA61718/humid/2026/01/781C3CA61718_humid_2026-01-30.csv"
     },
     "wind_speed": {
-      "lastTimestamp": 1769772290000,
-      "lastValueDateTime": "2026-01-30T18:24:50",
+      "lastTimestamp": 1769773432000,
+      "lastValueDateTime": "2026-01-30T18:43:52",
       "lastValue": 0,
       "file": "781C3CA61718/wind_speed/2026/01/781C3CA61718_wind_speed_2026-01-30.csv"
     },
     "wind_direct": {
-      "lastTimestamp": 1769772290000,
-      "lastValueDateTime": "2026-01-30T18:24:50",
+      "lastTimestamp": 1769773432000,
+      "lastValueDateTime": "2026-01-30T18:43:52",
       "lastValue": 315,
       "file": "781C3CA61718/wind_direct/2026/01/781C3CA61718_wind_direct_2026-01-30.csv"
     },
     "rainfall": {
-      "lastTimestamp": 1769772290000,
-      "lastValueDateTime": "2026-01-30T18:24:50",
+      "lastTimestamp": 1769773432000,
+      "lastValueDateTime": "2026-01-30T18:43:52",
       "lastValue": 0,
       "file": "781C3CA61718/rainfall/2026/01/781C3CA61718_rainfall_2026-01-30.csv"
     },
     "pm2.5": {
-      "lastTimestamp": 1769772290000,
-      "lastValueDateTime": "2026-01-30T18:24:50",
-      "lastValue": 30,
+      "lastTimestamp": 1769773432000,
+      "lastValueDateTime": "2026-01-30T18:43:52",
+      "lastValue": 29,
       "file": "781C3CA61718/pm2.5/2026/01/781C3CA61718_pm2.5_2026-01-30.csv"
     },
     "pm10": {
-      "lastTimestamp": 1769772290000,
-      "lastValueDateTime": "2026-01-30T18:24:50",
+      "lastTimestamp": 1769773432000,
+      "lastValueDateTime": "2026-01-30T18:43:52",
       "lastValue": 30,
       "file": "781C3CA61718/pm10/2026/01/781C3CA61718_pm10_2026-01-30.csv"
     }
   },
   "004B12240DB8": {
     "temp": {
-      "lastTimestamp": 1769772304000,
-      "lastValueDateTime": "2026-01-30T18:25:04",
-      "lastValue": 31.24,
+      "lastTimestamp": 1769773445000,
+      "lastValueDateTime": "2026-01-30T18:44:05",
+      "lastValue": 30.56,
       "file": "004B12240DB8/temp/2026/01/004B12240DB8_temp_2026-01-30.csv"
     },
     "humid": {
-      "lastTimestamp": 1769772304000,
-      "lastValueDateTime": "2026-01-30T18:25:04",
-      "lastValue": 52.1,
+      "lastTimestamp": 1769773445000,
+      "lastValueDateTime": "2026-01-30T18:44:05",
+      "lastValue": 54.89,
       "file": "004B12240DB8/humid/2026/01/004B12240DB8_humid_2026-01-30.csv"
     },
     "wind_speed": {
-      "lastTimestamp": 1769772304000,
-      "lastValueDateTime": "2026-01-30T18:25:04",
-      "lastValue": 1.74,
+      "lastTimestamp": 1769773445000,
+      "lastValueDateTime": "2026-01-30T18:44:05",
+      "lastValue": 4.83,
       "file": "004B12240DB8/wind_speed/2026/01/004B12240DB8_wind_speed_2026-01-30.csv"
     },
     "wind_direct": {
-      "lastTimestamp": 1769772305000,
-      "lastValueDateTime": "2026-01-30T18:25:05",
-      "lastValue": 315,
+      "lastTimestamp": 1769773446000,
+      "lastValueDateTime": "2026-01-30T18:44:06",
+      "lastValue": 0,
       "file": "004B12240DB8/wind_direct/2026/01/004B12240DB8_wind_direct_2026-01-30.csv"
     },
     "rainfall": {
-      "lastTimestamp": 1769772305000,
-      "lastValueDateTime": "2026-01-30T18:25:05",
+      "lastTimestamp": 1769773446000,
+      "lastValueDateTime": "2026-01-30T18:44:06",
       "lastValue": 0,
       "file": "004B12240DB8/rainfall/2026/01/004B12240DB8_rainfall_2026-01-30.csv"
     },
     "pm2.5": {
-      "lastTimestamp": 1769772305000,
-      "lastValueDateTime": "2026-01-30T18:25:05",
-      "lastValue": 47,
+      "lastTimestamp": 1769773446000,
+      "lastValueDateTime": "2026-01-30T18:44:06",
+      "lastValue": 41,
       "file": "004B12240DB8/pm2.5/2026/01/004B12240DB8_pm2.5_2026-01-30.csv"
     },
     "pm10": {
-      "lastTimestamp": 1769772305000,
-      "lastValueDateTime": "2026-01-30T18:25:05",
-      "lastValue": 61,
+      "lastTimestamp": 1769773446000,
+      "lastValueDateTime": "2026-01-30T18:44:06",
+      "lastValue": 49,
       "file": "004B12240DB8/pm10/2026/01/004B12240DB8_pm10_2026-01-30.csv"
     }
   },
   "781C3CA63034": {
     "temp": {
-      "lastTimestamp": 1769772172000,
-      "lastValueDateTime": "2026-01-30T18:22:52",
-      "lastValue": 29.48,
+      "lastTimestamp": 1769773365000,
+      "lastValueDateTime": "2026-01-30T18:42:45",
+      "lastValue": 28.95,
       "file": "781C3CA63034/temp/2026/01/781C3CA63034_temp_2026-01-30.csv"
     },
     "humid": {
-      "lastTimestamp": 1769772172000,
-      "lastValueDateTime": "2026-01-30T18:22:52",
-      "lastValue": 46.66,
+      "lastTimestamp": 1769773365000,
+      "lastValueDateTime": "2026-01-30T18:42:45",
+      "lastValue": 48.3,
       "file": "781C3CA63034/humid/2026/01/781C3CA63034_humid_2026-01-30.csv"
     },
     "wind_speed": {
-      "lastTimestamp": 1769772172000,
-      "lastValueDateTime": "2026-01-30T18:22:52",
-      "lastValue": 0,
+      "lastTimestamp": 1769773365000,
+      "lastValueDateTime": "2026-01-30T18:42:45",
+      "lastValue": 1.26,
       "file": "781C3CA63034/wind_speed/2026/01/781C3CA63034_wind_speed_2026-01-30.csv"
     },
     "wind_direct": {
-      "lastTimestamp": 1769772172000,
-      "lastValueDateTime": "2026-01-30T18:22:52",
+      "lastTimestamp": 1769773365000,
+      "lastValueDateTime": "2026-01-30T18:42:45",
       "lastValue": 45,
       "file": "781C3CA63034/wind_direct/2026/01/781C3CA63034_wind_direct_2026-01-30.csv"
     },
     "rainfall": {
-      "lastTimestamp": 1769772172000,
-      "lastValueDateTime": "2026-01-30T18:22:52",
+      "lastTimestamp": 1769773365000,
+      "lastValueDateTime": "2026-01-30T18:42:45",
       "lastValue": 0,
       "file": "781C3CA63034/rainfall/2026/01/781C3CA63034_rainfall_2026-01-30.csv"
     },
     "pm2.5": {
-      "lastTimestamp": 1769772172000,
-      "lastValueDateTime": "2026-01-30T18:22:52",
-      "lastValue": 40,
+      "lastTimestamp": 1769773365000,
+      "lastValueDateTime": "2026-01-30T18:42:45",
+      "lastValue": 28,
       "file": "781C3CA63034/pm2.5/2026/01/781C3CA63034_pm2.5_2026-01-30.csv"
     },
     "pm10": {
-      "lastTimestamp": 1769772173000,
-      "lastValueDateTime": "2026-01-30T18:22:53",
-      "lastValue": 60,
+      "lastTimestamp": 1769773365000,
+      "lastValueDateTime": "2026-01-30T18:42:45",
+      "lastValue": 31,
       "file": "781C3CA63034/pm10/2026/01/781C3CA63034_pm10_2026-01-30.csv"
     }
   }
