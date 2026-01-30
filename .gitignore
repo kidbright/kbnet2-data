@@ -1,0 +1,15 @@
+# Ignore the local Node.js application
+nodeapp/
+
+# Ignore local cache/tracking files
+data/latest.json
+
+# Common temporary or backup files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Environment / credentials
+*.env
+.env.local
